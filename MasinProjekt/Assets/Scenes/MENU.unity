@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 63575882}
   - component: {fileID: 63575881}
   m_Layer: 5
-  m_Name: GAME
+  m_Name: gay nigga balls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -182,7 +182,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 70
+    m_FontSize: 30
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -193,9 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'GAME
-
-'
+  m_Text: gay nigga balls
 --- !u!222 &63575882
 CanvasRenderer:
   m_ObjectHideFlags: 0
