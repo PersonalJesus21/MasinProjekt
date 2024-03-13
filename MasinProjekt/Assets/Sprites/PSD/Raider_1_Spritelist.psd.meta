@@ -1,0 +1,2490 @@
+fileFormatVersion: 2
+guid: 0b75a965388d1164eb7d15e653fb867d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1152
+        width: 47
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0303fa1d007284149b40b8f3be77023e
+      internalID: -65359842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1152
+        width: 50
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4530308b691732849bce9961e6b4e59f
+      internalID: 1469116697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1152
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17d7de772b0cff4eab2a77123414a3a
+      internalID: 1879219962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1146
+        width: 54
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.511727}
+      border: {x: 24, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2990b5fa034b7c643a47a6b4b5cca5ce
+      internalID: 1894167974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1152
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a79a7df80c7741aa29c3732f4dec2
+      internalID: -537987244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1152
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0ec8ed3f3517f428989e8318ba9b15
+      internalID: -1348189506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1023
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477174897640ba242b38efb3f6167ff0
+      internalID: -1332196226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1023
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa25930f52927e4899e747b3314e6ba
+      internalID: 882664170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1023
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e07a71bb9ffbcc40a94beb836df264f
+      internalID: 1742721983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1023
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc20ccf3ecf57e4ea4bbacde5e14b74
+      internalID: 887093285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1023
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc070a1a7b4fb5849bcf7244ee7b8fdf
+      internalID: -1188613565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1023
+        width: 27
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6d7797d3e69149966b9eb860a5966
+      internalID: 131725192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1023
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4789a5a679a904c9f9f82887a58aa1
+      internalID: -1171058651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1023
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65df78da9977e4d8b7a07ee8c9c78f
+      internalID: 486142317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 895
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec8bb7fa9d4f0641a5f7b86eca90c85
+      internalID: -230517450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 895
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3331777b71a9c9f4ab4d10eeaf7f6363
+      internalID: 14995336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 895
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d72a03fd6d931458280f6e4aa909af
+      internalID: -1433145426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 895
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a33259f135fd04fbdfe7411699655f
+      internalID: 804779626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 895
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a615584863e76b48bc0b77171245d5c
+      internalID: -350733826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 895
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b47116127590a44a48313bcc94a8c3
+      internalID: -734790637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 895
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2cac223114fef41a293079cb58e89e
+      internalID: -1831385097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 895
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac188318b4fdee4da4960de629eb60c
+      internalID: 1396629333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 766
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce48161be447649b929d8e6dc9ea11
+      internalID: 658029741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 766
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705a7fcabfce1c4ca15772d6cc80982
+      internalID: -1843585730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 766
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c56db5a573b0441afe8fb593c6b463
+      internalID: 1287557642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 816
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661d3b46bab9b2241a83fe5cc374f88d
+      internalID: 1486945884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 810
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec51720da60e240a9bc6a75f6f5d13
+      internalID: -404991626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 766
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177b8b9cfc05a654dbd89503e7201f85
+      internalID: -200507019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 801
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2b4060d2386940b78e4ea9a11af70
+      internalID: -1922977871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 821
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c06b6164f4447f47bc28b841fda3f05
+      internalID: 1613826734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 810
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0698e04a790004c8fc079266ebf3cf
+      internalID: -1897511795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 766
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e422bbe71115441851731caad2c6b0
+      internalID: -179604812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 821
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cfae5c42e941243988ed5d22a25b29
+      internalID: -1864337866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 797
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439d64a2816fca24bb90210e8407bdef
+      internalID: -1362383869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 822
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70956177ba0598046b9e9649106fe3ba
+      internalID: -1496340401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 813
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684744dc00733604e9bd52acd5144fc7
+      internalID: 978333333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 812
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432e472a2ed6bbb4d8e4b2a6ac682863
+      internalID: 727981933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 766
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4373746d0108074f8fcb047104463e7
+      internalID: -1398103580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 823
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87a325fec7783c43aa84767701eeca6
+      internalID: -565851532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 812
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9ce97363802504eb3519650e2345c8
+      internalID: 1978447629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 823
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a9c4bef44720948b5d551a61aacc04
+      internalID: 1191045955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 828
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f162b7ce0c5249419afd7a68dd76113
+      internalID: 517008885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 829
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c13f446dd670945b0d503417077291
+      internalID: 773122933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 834
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86835cded114e9409f802ac3c6e7ffc
+      internalID: -1407322852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 814
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438732e83b2487b4785e93a8327d21ca
+      internalID: 232370975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 810
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b269019da119c5941ac7064104b48b18
+      internalID: 1017898640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 766
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ad91995af14a64da679544c65f1459
+      internalID: -860054669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 799
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5318346e8bd74fbad2f78e9e3afd5
+      internalID: 1924659624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 826
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373c2c22cd7013b47a3cddba14c56385
+      internalID: 1546721353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 812
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e67b4dac7bdf74591121ff16939709
+      internalID: -926051917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 829
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bedd4a89ae87fe46a669b8c598d0d19
+      internalID: 1895360789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 812
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1bd28a26a68494498ac02615cbc420
+      internalID: -1496226301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 766
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e83f39347199a848b9cd8d7ccaf2103
+      internalID: 600886126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 810
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcf0ae1b6789ca45a13d642b762eb49
+      internalID: -1691215484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 766
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a7f5a69cc848044adf1cc172e8ce88
+      internalID: -1442236982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 766
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb22faa5ced9054abf6524f0ac0ed55
+      internalID: -1541472990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 766
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f44723ae3502a48ac43006fd8fb5aa
+      internalID: 511962527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 766
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5ad0f0a4780cb4db96e58a8528cb25
+      internalID: 1130733347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 803
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf0d3ddbcc56e04a8eb114421466b82
+      internalID: 1003869422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 796
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25231b29888cb64ba7da7cc581dc9fe
+      internalID: -521092707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 799
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f268c6ea54dd24dbad1b6a422ea1e8
+      internalID: 787846761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 793
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48d3e56b53a62446b842c961d22b2d3
+      internalID: 464166183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 791
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4960115484a2262419c496572a4e85f9
+      internalID: -190823861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 795
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178447d897452364ca92105846187078
+      internalID: 1659122332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 790
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15627a6a323431342b03663361c807d6
+      internalID: 239872274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 790
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03653cabd99e81d4790c3e92599f6975
+      internalID: 881656595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 789
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35781a10719f83e49b37c2080ad74ee0
+      internalID: 774588389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 789
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901156bc4f2586746aa089f95a3494b1
+      internalID: -1768867318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 789
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e0b97dbdb35514db895aa9483f7204
+      internalID: -1315050459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_69
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 789
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895d53f62a9c6ac4b888224c63589b7a
+      internalID: -1087919949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_70
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 638
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f444b417047732f4a9f9214ac7799d60
+      internalID: -316992731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_71
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 638
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ac147e1bcedbb44a5debeb1e12666e
+      internalID: 556583478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_72
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 638
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575f75d4d17a4a7428f69c1f624ef202
+      internalID: 1367428288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_73
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 638
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e25f74e2a5c3c34483017557553406f
+      internalID: 839968505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_74
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 638
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab184281d34de44785ee980aa846330
+      internalID: -1453358339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_75
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 638
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049b38a79beb2b47b4412fb8b1623a0
+      internalID: 253920332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_76
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 511
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bfb3fd63f31fd4a996efa5f1f3258c
+      internalID: 983559446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_77
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 511
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ea0988b1036f48a4d06e2a3b98d30
+      internalID: 1032176236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_78
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 511
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a890bcf2d6952b447acfadf2105d7993
+      internalID: -167740491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 383
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c9666881834bd44b70c5556511d0d7
+      internalID: -1543981973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_80
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 383
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f2a164006065c48b05607dbfbc4c2b
+      internalID: -134649123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_81
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 383
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcb851ccf4b71449974172833e146b5
+      internalID: -447538476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_82
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 383
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6e82230be669449b576d87ce368487
+      internalID: 803968206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_83
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 383
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa7002b38d264e4583e91672081cced
+      internalID: -1025231881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_84
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 383
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014a07a9fd1e354468a0c97659a3932e
+      internalID: -2136717036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_85
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 383
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17750ed4869ab664f99c285921fd6500
+      internalID: 394326244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_86
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 383
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aac91b0b2fc20149aa0e0e1e52da9d1
+      internalID: -935937232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_87
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 383
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd178a3377e18bd41bb3dacdca4e3618
+      internalID: 1280429321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_88
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 383
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92ff93c81e03d642bbbbeb83f1dce8b
+      internalID: 934136550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_89
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 383
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c050777560990042a47609dc5fd098c
+      internalID: 1138661563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_90
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 383
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289848022f83f194083b4e0f3892b7d6
+      internalID: 688769963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_91
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 255
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8807cf6101cba4bafafac5176640ae
+      internalID: 242355854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_92
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 255
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc066a41a5aa8bf409e18729c1f39937
+      internalID: -1980826355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_93
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 255
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab2c018b9d2a85449554f0db935dce4
+      internalID: -958542403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_94
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 255
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043af559ef0f6154d99a923fcfc26169
+      internalID: -887155581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_95
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 259
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd525f35a51430e49856f73a75ee64a5
+      internalID: 791898779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_96
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 263
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c53a2ddbb17344a5af6b84f6d81e8
+      internalID: -2004687319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_97
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 270
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95268b04a410985479038a557602186b
+      internalID: -1208512925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_98
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 263
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbda89e2dde1d143b7cd206ab50a570
+      internalID: -366595129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_99
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 259
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a225df93dd5b46b45de92cb93a6fd
+      internalID: 1461305791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_100
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 255
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668a7ddd8253bb2438ff196229879e6a
+      internalID: 494291067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_101
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 255
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bc280114d107e4f883e7b968e03ef9
+      internalID: -115387933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_102
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 126
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c3080f70ed8d9469326cba3e9d7b9c
+      internalID: -139392058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_103
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 126
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edad31e9289f0746a1603bc51e69b42
+      internalID: -1069285385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_104
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85724669470724b4586c07a50f6d55a5
+      internalID: -817799371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_105
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e87a2ae945cb4498dd5ab563c61b47
+      internalID: 1531408298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9d98a43dcf228488675c6243135c4c
+      internalID: -678422696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raider_1_Spritelist_107
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 86
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be38f7d29cc5614da179f785786b249
+      internalID: 1389917142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Raider_1_Spritelist_0: -65359842
+      Raider_1_Spritelist_1: 1469116697
+      Raider_1_Spritelist_10: -1188613565
+      Raider_1_Spritelist_100: 494291067
+      Raider_1_Spritelist_101: -115387933
+      Raider_1_Spritelist_102: -139392058
+      Raider_1_Spritelist_103: -1069285385
+      Raider_1_Spritelist_104: -817799371
+      Raider_1_Spritelist_105: 1531408298
+      Raider_1_Spritelist_106: -678422696
+      Raider_1_Spritelist_107: 1389917142
+      Raider_1_Spritelist_11: 131725192
+      Raider_1_Spritelist_12: -1171058651
+      Raider_1_Spritelist_13: 486142317
+      Raider_1_Spritelist_14: -230517450
+      Raider_1_Spritelist_15: 14995336
+      Raider_1_Spritelist_16: -1433145426
+      Raider_1_Spritelist_17: 804779626
+      Raider_1_Spritelist_18: -350733826
+      Raider_1_Spritelist_19: -734790637
+      Raider_1_Spritelist_2: 1879219962
+      Raider_1_Spritelist_20: -1831385097
+      Raider_1_Spritelist_21: 1396629333
+      Raider_1_Spritelist_22: 658029741
+      Raider_1_Spritelist_23: -1843585730
+      Raider_1_Spritelist_24: 1287557642
+      Raider_1_Spritelist_25: 1486945884
+      Raider_1_Spritelist_26: -404991626
+      Raider_1_Spritelist_27: -200507019
+      Raider_1_Spritelist_28: -1922977871
+      Raider_1_Spritelist_29: 1613826734
+      Raider_1_Spritelist_3: 1894167974
+      Raider_1_Spritelist_30: -1897511795
+      Raider_1_Spritelist_31: -179604812
+      Raider_1_Spritelist_32: -1864337866
+      Raider_1_Spritelist_33: -1362383869
+      Raider_1_Spritelist_34: -1496340401
+      Raider_1_Spritelist_35: 978333333
+      Raider_1_Spritelist_36: 727981933
+      Raider_1_Spritelist_37: -1398103580
+      Raider_1_Spritelist_38: -565851532
+      Raider_1_Spritelist_39: 1978447629
+      Raider_1_Spritelist_4: -537987244
+      Raider_1_Spritelist_40: 1191045955
+      Raider_1_Spritelist_41: 517008885
+      Raider_1_Spritelist_42: 773122933
+      Raider_1_Spritelist_43: -1407322852
+      Raider_1_Spritelist_44: 232370975
+      Raider_1_Spritelist_45: 1017898640
+      Raider_1_Spritelist_46: -860054669
+      Raider_1_Spritelist_47: 1924659624
+      Raider_1_Spritelist_48: 1546721353
+      Raider_1_Spritelist_49: -926051917
+      Raider_1_Spritelist_5: -1348189506
+      Raider_1_Spritelist_50: 1895360789
+      Raider_1_Spritelist_51: -1496226301
+      Raider_1_Spritelist_52: 600886126
+      Raider_1_Spritelist_53: -1691215484
+      Raider_1_Spritelist_54: -1442236982
+      Raider_1_Spritelist_55: -1541472990
+      Raider_1_Spritelist_56: 511962527
+      Raider_1_Spritelist_57: 1130733347
+      Raider_1_Spritelist_58: 1003869422
+      Raider_1_Spritelist_59: -521092707
+      Raider_1_Spritelist_6: -1332196226
+      Raider_1_Spritelist_60: 787846761
+      Raider_1_Spritelist_61: 464166183
+      Raider_1_Spritelist_62: -190823861
+      Raider_1_Spritelist_63: 1659122332
+      Raider_1_Spritelist_64: 239872274
+      Raider_1_Spritelist_65: 881656595
+      Raider_1_Spritelist_66: 774588389
+      Raider_1_Spritelist_67: -1768867318
+      Raider_1_Spritelist_68: -1315050459
+      Raider_1_Spritelist_69: -1087919949
+      Raider_1_Spritelist_7: 882664170
+      Raider_1_Spritelist_70: -316992731
+      Raider_1_Spritelist_71: 556583478
+      Raider_1_Spritelist_72: 1367428288
+      Raider_1_Spritelist_73: 839968505
+      Raider_1_Spritelist_74: -1453358339
+      Raider_1_Spritelist_75: 253920332
+      Raider_1_Spritelist_76: 983559446
+      Raider_1_Spritelist_77: 1032176236
+      Raider_1_Spritelist_78: -167740491
+      Raider_1_Spritelist_79: -1543981973
+      Raider_1_Spritelist_8: 1742721983
+      Raider_1_Spritelist_80: -134649123
+      Raider_1_Spritelist_81: -447538476
+      Raider_1_Spritelist_82: 803968206
+      Raider_1_Spritelist_83: -1025231881
+      Raider_1_Spritelist_84: -2136717036
+      Raider_1_Spritelist_85: 394326244
+      Raider_1_Spritelist_86: -935937232
+      Raider_1_Spritelist_87: 1280429321
+      Raider_1_Spritelist_88: 934136550
+      Raider_1_Spritelist_89: 1138661563
+      Raider_1_Spritelist_9: 887093285
+      Raider_1_Spritelist_90: 688769963
+      Raider_1_Spritelist_91: 242355854
+      Raider_1_Spritelist_92: -1980826355
+      Raider_1_Spritelist_93: -958542403
+      Raider_1_Spritelist_94: -887155581
+      Raider_1_Spritelist_95: 791898779
+      Raider_1_Spritelist_96: -2004687319
+      Raider_1_Spritelist_97: -1208512925
+      Raider_1_Spritelist_98: -366595129
+      Raider_1_Spritelist_99: 1461305791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
