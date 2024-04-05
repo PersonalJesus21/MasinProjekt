@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class ZombieMovementLeft : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public float moveSpeed = 5;
+    public float deadZone = 45;
     void Start()
     {
         
@@ -13,6 +14,11 @@ public class ZombieMovementLeft : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+          transform.position = transform.position + (Vector3.right*moveSpeed) * Time.deltaTime;
+
+        if(transform.position.x>deadZone)
+        {
+            Destroy(gameObject);
+        }
     }
 }
