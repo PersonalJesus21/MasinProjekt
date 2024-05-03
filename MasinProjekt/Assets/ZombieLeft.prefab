@@ -153,6 +153,7 @@ GameObject:
   - component: {fileID: 7718219399237694774}
   - component: {fileID: -4276880220282006372}
   - component: {fileID: -7585530013292350350}
+  - component: {fileID: 9036236429727686184}
   m_Layer: 0
   m_Name: ZombieLeft
   m_TagString: Untagged
@@ -332,3 +333,24 @@ MonoBehaviour:
   health: 100
   logic: {fileID: 0}
   deathEffect: {fileID: 0}
+--- !u!95 &9036236429727686184
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111754588990650425}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ff25c1c225fbd644c9458073b2e86f54, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
