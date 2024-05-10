@@ -11,12 +11,14 @@ public class ZombieSpawner : MonoBehaviour
     public Transform ZombieSpawnerLeft;
     public float SpawnRate = 2;
     private float Timer = 0;
+    public float SpawnModifier = 50 ;
     // Start is called before the first frame update
     
     void Start()
     {
          SpawnZombieRight();
          SpawnZombieLeft();
+         
     }
 
     // Update is called once per frame
@@ -25,13 +27,15 @@ public class ZombieSpawner : MonoBehaviour
         if(Timer < SpawnRate)
         {
             Timer = Timer + Time.deltaTime;
-            Debug.Log("+");
+           
         }
         else
         {
             SpawnZombieLeft();
             SpawnZombieRight();
              Timer = 0;
+             if(SpawnRate >=1){SpawnRate= SpawnRate - (SpawnRate/SpawnModifier);}
+             Debug.Log("-");
         }
     }
     void SpawnZombieRight()

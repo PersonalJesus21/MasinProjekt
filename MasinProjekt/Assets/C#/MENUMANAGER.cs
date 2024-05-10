@@ -15,6 +15,10 @@ public class MENUMANAGER : MonoBehaviour
         Debug.Log ("Player has quit");
     }
 
-    
+    public void BACK () 
+    {
+        SceneManager.LoadScene("MENU");
+    }
+        
     }
 

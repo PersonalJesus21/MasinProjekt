@@ -4,20 +4,28 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using JetBrains.Annotations;
 
 public class LogicManager : MonoBehaviour
 
 {
+   
     public GameObject gameOverScreen;
    public int PlayerHealth;
    public int PlayerScore;
    public TextMeshProUGUI HealthText;
    public TextMeshProUGUI ScoreText;
-  [ContextMenu("Increase Score")]
+  public TextMeshProUGUI HighScoreText;
+    public void Start()
+    {
+        UpdateHighScoreText();
+        
+    }
    public void AddScore()
     {
         PlayerScore = PlayerScore + 1;
         ScoreText.text = PlayerScore.ToString();
+        CheckingHScore();
     }
 
     public void DecreaseHealth()
@@ -34,5 +42,19 @@ public class LogicManager : MonoBehaviour
     public void gameOver()
     {
         gameOverScreen.SetActive(true);
+    }
+   
+    public void CheckingHScore()
+    {
+       if (PlayerScore > PlayerPrefs.GetInt("HighScore", 0))
+       {
+        PlayerPrefs.SetInt("HighScore", PlayerScore);
+        Debug.Log("Funguje");
+       }
+    }
+    public void UpdateHighScoreText()
+    {
+        Debug.Log("Updated");
+        HighScoreText.text = $" {PlayerPrefs.GetInt("HighScore", 0)}";
     }
 }
