@@ -19,7 +19,7 @@ public class LogicManager : MonoBehaviour
     public void Start()
     {
         UpdateHighScoreText();
-        
+        Time.timeScale = 1;
     }
    public void AddScore()
     {

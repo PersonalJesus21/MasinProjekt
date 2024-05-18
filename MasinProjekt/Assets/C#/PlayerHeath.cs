@@ -25,6 +25,7 @@ public class PlayerHeath : MonoBehaviour
             logic.gameOver();
             Destroy(gameObject);
             Debug.Log("smrt");
+            Time.timeScale = 0;
 
         }}
       

@@ -43,11 +43,11 @@ GameObject:
   - component: {fileID: 6754930070755279330}
   - component: {fileID: 4908148802212668571}
   - component: {fileID: 7718219399237694774}
-  - component: {fileID: -4276880220282006372}
   - component: {fileID: -7585530013292350350}
   - component: {fileID: 9036236429727686184}
+  - component: {fileID: -5471450052555100420}
   m_Layer: 0
-  m_Name: ZombieLeft
+  m_Name: ZombieTankRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -63,7 +63,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.02, y: -3.34, z: 4.786214}
-  m_LocalScale: {x: 2.202249, y: 1.5632755, z: 0.8220458}
+  m_LocalScale: {x: 2.8353958, y: 2.0908809, z: 0.8220458}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6475949751682224436}
@@ -132,7 +132,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.43, y: 0.54}
+    oldSize: {x: 0.25, y: 0.64}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -182,7 +182,7 @@ SpriteRenderer:
   m_SortingLayerID: 945733167
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 480795272, guid: e8504507faf589142b6f192e771cad77, type: 3}
+  m_Sprite: {fileID: 1125981598, guid: e84d7b3da09ecc54fae336cb83e69e8b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -193,23 +193,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &-4276880220282006372
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8111754588990650425}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6307f1ebdfbcf541bf15ff5df1eec5c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Timer: 0
-  moveSpeed: 5
-  deadZone: 45
-  SpeedModifier: 500
-  logic: {fileID: 0}
 --- !u!114 &-7585530013292350350
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -222,8 +205,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae11a629e35823d468c71af312a5626b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pdamage: 25
-  health: 100
+  pdamage: 50
+  health: 300
   logic: {fileID: 0}
   deathEffect: {fileID: 0}
 --- !u!95 &9036236429727686184
@@ -236,7 +219,7 @@ Animator:
   m_GameObject: {fileID: 8111754588990650425}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 494695fd881c29640a3f5aba378cf39f, type: 2}
+  m_Controller: {fileID: 9100000, guid: e5832a46b03ad7645a205c29cd545b98, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -247,3 +230,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-5471450052555100420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111754588990650425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 195cc267a44893441a7cb2f481d01c69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  logic: {fileID: 0}
+  moveSpeed: 1
+  deadZone: -45
+  SpeedModifier: 100

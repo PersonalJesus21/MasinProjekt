@@ -288,9 +288,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ZombieRight: {fileID: 8589645503395149049, guid: abaddc853a73c664fb98afa71224bea9, type: 3}
   ZombieLeft: {fileID: 8111754588990650425, guid: e02d8a07db398404fb653f4580443903, type: 3}
+  ZombieTankRight: {fileID: 8111754588990650425, guid: bdac9553386fb2943955329c4092072a, type: 3}
+  ZombieTankLeft: {fileID: 8111754588990650425, guid: 5f18d89fa8719984f927b28a850ee279, type: 3}
   ZombieSpawnerRight: {fileID: 1203100060}
   ZombieSpawnerLeft: {fileID: 627200346}
   SpawnRate: 3
+  SpawnRateTank1: 10
+  SpawnRateTank2: 15
   SpawnModifier: 10
 --- !u!4 &303905499
 Transform:
