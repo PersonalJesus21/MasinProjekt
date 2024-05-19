@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class PlayerMovement : MonoBehaviour
 {
     private float horizontal;
+    public Animator animator;
     private float speed = 3f;
     private bool isFacingRight = true;
     public Rigidbody2D body;
@@ -23,6 +24,7 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        animator.SetFloat("Speed", Mathf.Abs(horizontal));
         horizontal = Input.GetAxisRaw("Horizontal");
         Flip();
        if(Input.GetKeyDown(KeyCode.Escape))
